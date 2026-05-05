@@ -14,29 +14,29 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@สล็อต888" />
     <link rel="canonical" href="https://srarnah.ch/service-traiteur/">
-    <link rel="amphtml" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/">
-    <link rel="alternate" hreflang="th-th" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" />
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/"> 
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="ja">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="en">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="zh-Hant">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="zh-Hans">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="th">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="id">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="ko">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="de">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="es">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="ru">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="fr">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="it">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="ms">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="my">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="pl">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="pt">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="tr">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="vi">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="ar">
-    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/img/" hreflang="x-default">
+    <link rel="amphtml" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/">
+    <link rel="alternate" hreflang="th-th" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" />
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/"> 
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="ja">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="en">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="zh-Hant">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="zh-Hans">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="th">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="id">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="ko">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="de">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="es">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="ru">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="fr">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="it">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="ms">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="my">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="pl">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="pt">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="tr">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="vi">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="ar">
+    <link rel="alternate" href="https://slot888thai.b-cdn.net/srarnah/service-traiteur/" hreflang="x-default">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=1220">
     <meta name="google-translate-customization" content="4d1dcec625a5559f-3c2a9d4f1af3dee9-g5875ce787249d58c-8">
